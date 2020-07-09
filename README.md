@@ -1,5 +1,5 @@
-# General_UITableViewDataSource
-Very simple code UITableViewDataSource using General for many UITableView you have
+# General UITableViewDataSource
+Very simple code (swift) UITableViewDataSource using General for many UITableView you have
 
 
 ### Before using General
