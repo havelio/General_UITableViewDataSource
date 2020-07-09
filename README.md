@@ -52,6 +52,6 @@ class BasicCell: BaseTableViewCell<String> {
     }
 }
 ```
-You can get the class that manages the datasource in `TableViewUtils.swift`
+You can get the class that manages the datasource in `TableViewUtils.swift` https://github.com/havelio/General_UITableViewDataSource/blob/master/TableViewUtils.swift
 
 ### Good luck!
