@@ -1,6 +1,8 @@
 # General UITableViewDataSource
 Very simple code (swift) UITableViewDataSource using General for many UITableView you have
 
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
 
 ### Before using General
 
@@ -54,4 +56,6 @@ class BasicCell: BaseTableViewCell<String> {
 ```
 You can get the class that manages the datasource in `TableViewUtils.swift` https://github.com/havelio/General_UITableViewDataSource/blob/master/TableViewUtils.swift
 
+#### How to apply for UICollectionView
+https://github.com/havelio/General_collectionViewDataSource
 ### Good luck!
