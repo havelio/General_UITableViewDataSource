@@ -58,7 +58,7 @@ class TableViewDataSource<Cell: BaseTableViewCell<Model>, Model>: NSObject, UITa
         return tableViewDataSource
     }
 
-    func reloa(data: [Model]) {
+    func reload(data: [Model]) {
         self.items = data
     }
 
